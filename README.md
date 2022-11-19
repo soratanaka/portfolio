@@ -1,55 +1,55 @@
-<h1># README<h1>
+# README
 
-<h1># 開発言語<h1>
+## 開発言語
 
-- ##### ruby：3.0.1 
-- ##### rails：6.1.6 
+- ###### ruby：3.0.1 
+- ###### rails：6.1.6 
 
-<h1># 開発言語<h1>
-就業Termの技術
+## 開発言語
 
-- ##### フォロー機能
-- ##### お気に入り機能
-- ##### （予定）AWS EC2
-- ##### （予定）Ajaxを使ったコメント機能
+### 就業Termの技術
+- ###### フォロー機能
+- ###### お気に入り機能
+- ###### （予定）AWS EC2
+- ###### （予定）Ajaxを使ったコメント機能
 
-<h1># 開発言語<h1>
+### 開発言語
 
-- ##### Google Map Embed API
-- ##### geocoder
+- ###### Google Map Embed API
+- ###### geocoder
 
-<h1># 実行手順<h1>
+### 実行手順
 
-### _$ git clone git@github.com:soratanaka/portfolio.git_
+##### _$ git clone git@github.com:soratanaka/portfolio.git_
 
-_$ cd portfolio_
+####  _$ cd portfolio_
 
-_$ bundle install_
+#### _$ bundle install_
 
-_$ rails db:create && rails db:migrate_  
+#### _$ rails db:create && rails db:migrate_  
 
-_$ rails s_
+#### _$ rails s_
 
-<h1># カタログ設計<h1>
+### カタログ設計
 
-#####  https://docs.google.com/spreadsheets/d/1eUu13rvmthjYyAUHlj_RoTr8P60ykvkwhNeMH3FEyWs/edit#gid=1874073146
+#####  https://docs.google.com/spreadsheets/d/1eUu13rvmthjYyAUHlj_RoTr8P60ykvkwhNeMH3FEyWs/edit?usp=sharing
 
-<h1># テーブル定義書<h1>
+### テーブル定義書
 
-##### https://docs.google.com/spreadsheets/d/1JbjjP1iAcC_CGWiyUiYotDeqHLtqq_GsS8xCifJCZAQ/edit#gid=59771329
+##### https://docs.google.com/spreadsheets/d/1JbjjP1iAcC_CGWiyUiYotDeqHLtqq_GsS8xCifJCZAQ/edit?usp=sharing
 
 
-<h1># ER図<h1>
+### ER図
 
 ![ER図](img/ER図.png) 
 
 
-<h1># テーブル定義書<h1>
+### ワイヤーフレーム
 
 ![ラフ画像](img/ラフ図_1.png) 
 ![ラフ画像](img/ラフ図_1.png) 
 ![ラフ画像](img/ラフ図_1.png) 
 
-<h1># テーブル定義書<h1>
+### 画面遷移図
 
 ![画面遷移](img/画面遷移.png) 
